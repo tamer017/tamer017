@@ -5,8 +5,9 @@
 ### Machine Learning Engineer | AI Systems Developer | Data Scientist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-tamer-assy-0b5154213/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.assy@stud.uni-goettingen.de)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tamer017)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedtamerassy@gmail.com)
+[![University Email](https://img.shields.io/badge/University_Email-00457C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.assy@stud.uni-goettingen.de)
+[![Location](https://img.shields.io/badge/Location-Göttingen,_Germany-green?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Göttingen)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tamer017&color=blueviolet&style=flat-square)
 
@@ -61,7 +62,6 @@ M.Sc. in Applied Computer Science @ **Georg-August-Universität Göttingen** spe
 ![Graph ML](https://img.shields.io/badge/Graph_ML-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-
 ---
 
 ## 🏆 Achievements
@@ -106,7 +106,8 @@ M.Sc. in Applied Computer Science @ **Georg-August-Universität Göttingen** spe
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-tamer-assy-0b5154213/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.assy@stud.uni-goettingen.de)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedtamerassy@gmail.com)
+[![University Email](https://img.shields.io/badge/University-Contact-00457C?style=for-the-badge&logo=microsoftacademic&logoColor=white)](mailto:ahmed.assy@stud.uni-goettingen.de)
 
 **💡 Open to collaborations in ML, AI, and Data Science**
 
