@@ -4,7 +4,7 @@
 
 ### Machine Learning Engineer | AI Systems Developer | Data Scientist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-tamer-assy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-tamer-assy-0b5154213/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.assy@stud.uni-goettingen.de)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tamer017)
 
@@ -61,87 +61,6 @@ M.Sc. in Applied Computer Science @ **Georg-August-Universität Göttingen** spe
 ![Graph ML](https://img.shields.io/badge/Graph_ML-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-### 🔤 [Paraphrase Type Detection Using Deep Learning](link-to-repo)
-Deep learning system for paraphrase classification using **BART transformers**. Trained on PAWS and QQP datasets with advanced optimization techniques.
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![NLP](https://img.shields.io/badge/NLP-4285F4?style=flat-square&logo=google&logoColor=white)
-
-**Key Features:** SMART regularization • Multiple negative ranking loss • HPC deployment • Cross-dataset validation
-
----
-
-### 🎯 [3D Point Cloud Classification with GNNs](link-to-repo)
-Graph Neural Network architecture for 3D object recognition using **EdgeConv** and **TransformerConv** on ModelNet40 dataset.
-
-![PyTorch](https://img.shields.io/badge/PyTorch_Geometric-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![GNN](https://img.shields.io/badge/GNN-FF6B6B?style=flat-square&logo=graphql&logoColor=white)
-![3D Vision](https://img.shields.io/badge/3D_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**Key Features:** k-NN graph construction • Dynamic edge updates • Data augmentation • Local/global feature learning
-
----
-
-### 🔒 [Anomaly-Based Intrusion Detection System](link-to-repo)
-Deep learning solution for network security using **1D CNNs** to detect and classify attack anomalies on NSL-KDD dataset.
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-013243?style=flat-square&logo=tensorflow&logoColor=white)
-![Security](https://img.shields.io/badge/Security-000000?style=flat-square&logo=security&logoColor=white)
-
-**Key Features:** Real-time detection • Multi-class classification • High accuracy • Network traffic analysis
-
----
-
-### 🚗 [UK Accidents Analysis Pipeline](link-to-repo)
-Automated data analysis pipeline with **Docker** and **Airflow** for scalable accident data processing and insights extraction.
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Key Features:** Containerized workflows • KNN imputation • Web scraping • EDA automation • Reproducible pipelines
-
----
-
-### 📸 [Multi-Angular Photogrammetry Compendium](link-to-repo)
-Reproducible framework for UAV image processing using **Agisoft Metashape** with comprehensive documentation.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Documentation](https://img.shields.io/badge/Documentation-000000?style=flat-square&logo=read-the-docs&logoColor=white)
-![Research](https://img.shields.io/badge/Research-4285F4?style=flat-square&logo=google-scholar&logoColor=white)
-
-**Key Features:** Workflow transparency • Example datasets • Processing scripts • Best practices
-
----
-
-### ⚽ [Edge-Based Player Activity Tracking](link-to-repo)
-Low-power CNN system for real-time football player activity monitoring using **microcontroller** and **IMU sensors**.
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-00979D?style=flat-square&logo=raspberry-pi&logoColor=white)
-![Edge Computing](https://img.shields.io/badge/Edge_Computing-76B900?style=flat-square&logo=nvidia&logoColor=white)
-
-**Key Features:** Real-time tracking • Wearable device • Low power consumption • Activity classification
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamer017&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tamer017&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tamer017&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
@@ -186,7 +105,7 @@ Low-power CNN system for real-time football player activity monitoring using **m
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ahmed-tamer-assy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-tamer-assy-0b5154213/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.assy@stud.uni-goettingen.de)
 
 **💡 Open to collaborations in ML, AI, and Data Science**
