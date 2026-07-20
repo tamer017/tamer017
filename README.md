@@ -1,19 +1,21 @@
 <table width="100%">
 <tr>
-<td width="160" valign="top">
-  <img src="assets/profile.jpg" width="150" style="border-radius:50%;" alt="Ahmed Tamer Assy" />
+<td width="170" valign="top">
+  <img src="assets/profile.jpg" width="160" style="border-radius:50%;" alt="Ahmed Tamer Assy" />
 </td>
 <td valign="top">
 
 # Hi, I'm Ahmed Tamer Assy 👋
 
-**AI / ML Engineer & Data Scientist** — LLM Agents · RAG · Graph Neural Networks · NLP · Computer Vision
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=6C5CE7&center=false&vCenter=true&width=460&lines=AI+%2F+ML+Engineer+%26+Data+Scientist;LLM+Agents+%C2%B7+RAG+%C2%B7+Graph+Neural+Networks;NLP+%C2%B7+Computer+Vision+%C2%B7+Embedded+AI)](https://git.io/typing-svg)
+
 📍 Göttingen, Germany 🇩🇪
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--six--opal--24.vercel.app-6c5ce7?style=flat-square)](https://portfolio-six-opal-24.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Tamer-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-tamer-assy/)
 [![Email](https://img.shields.io/badge/Email-ahmedtamerassy%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedtamerassy@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-hamadaassyhamadaassy-fca311?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/hamadaassyhamadaassy/)
+[![Profile views](https://komarev.com/ghpvc/?username=tamer017&color=6c5ce7&style=flat-square&label=views)](https://github.com/tamer017)
 
 </td>
 </tr>
@@ -23,11 +25,19 @@
 
 ## 🧠 About Me
 
-I'm an AI engineer and data scientist with a software engineering foundation: a published, benchmark-beating research paper behind me and industry experience at Volkswagen. My range runs the whole stack, from AES in assembly and VHDL at the hardware level to LLM agents, RAG pipelines and 3D graph dashboards at the application level.
+I'm an AI engineer and data scientist with a software engineering foundation — a published, benchmark-beating research paper behind me and hands-on industry experience at Volkswagen. My range runs the whole stack: from AES in raw assembly and VHDL at the hardware level, to LLM agents, RAG pipelines and 3D graph dashboards at the application level. I like problems where graph structure, language and real-world constraints collide.
 
-Currently an M.Sc. Applied Computer Science candidate at the **University of Göttingen**, writing my thesis at **Volkswagen AG**: an autonomous LLM agent that reasons over vehicle E/E architecture graphs using RAG and graph machine learning.
+📄 Full case studies, writeups and design decisions live on my **[portfolio site](https://portfolio-six-opal-24.vercel.app)**.
 
-📄 See the full case studies, writeups and design decisions on my **[portfolio site](https://portfolio-six-opal-24.vercel.app)**.
+```text
+🔭 Currently working on   an autonomous LLM agent (RAG + graph ML) for automotive
+                          E/E architectures — M.Sc. thesis at Volkswagen AG
+🌱 Currently learning     computational neuroscience · advanced graph ML
+💬 Ask me about           LLM agents · RAG pipelines · GNNs · NLP · embedded ML
+📫 Reach me               ahmedtamerassy@gmail.com
+⚡ Fun fact               I hand-wrote AES-128 in x86 Assembly — no libraries,
+                          just registers, GF(2⁸) math and patience
+```
 
 ---
 
@@ -66,25 +76,31 @@ Thesis: 12 deep learning models for network intrusion detection — the best bea
 
 ---
 
-## 🔬 Research
+<details open>
+<summary><b>🔬 Research</b></summary>
+<br/>
 
 | Project | Description | Stack |
 |---|---|---|
 | **Master Thesis** *(Private)* | GNNs + LLM agents for automotive E/E architecture (Volkswagen) | PyTorch Geometric · Neo4j · LangChain |
 | [**text2sql-eval**](https://github.com/tamer017/text2sql-eval) | Multi-agent Text-to-SQL evaluation framework — Agent A4: **+31% Execution Accuracy** | LangChain · ChromaDB · Langfuse |
 
----
+</details>
 
-## 🤖 AI Agents & LLM Engineering
+<details open>
+<summary><b>🤖 AI Agents & LLM Engineering</b></summary>
+<br/>
 
 | Project | Description | Stack |
 |---|---|---|
 | **job-hunt-agent** *(Private)* | Autonomous job scraping + GPT-4 cover letter generation + SMTP delivery | PydanticAI · GPT-4 · Selenium · SQLite |
 | [**instagram_workflow**](https://github.com/tamer017/instagram_workflow) | Serverless CI/CD pipeline: FFmpeg video processing + LLM caption generation + Reels publishing | LangChain · GitHub Actions · FFmpeg |
 
----
+</details>
 
-## 🧬 Deep Learning & Computer Vision
+<details>
+<summary><b>🧬 Deep Learning & Computer Vision</b></summary>
+<br/>
 
 | Project | Description | Result |
 |---|---|---|
@@ -93,9 +109,11 @@ Thesis: 12 deep learning models for network intrusion detection — the best bea
 | [**Edge Player Tracking**](https://github.com/tamer017/Low-power-Edge-based-Player-activity-Tracking) | TFLite Conv1D sports activity classifier for ESP32/STM32 | **95.6% (+10.4pp)** |
 | [**Agisoft Photogrammetry**](https://github.com/tamer017/Agisoft-Photogrammetry-Workflow-Compendium) | Full UAV SfM → MVS → orthomosaic → NDVI pipeline | Precision Agriculture |
 
----
+</details>
 
-## 🔐 Cryptography & Systems
+<details>
+<summary><b>🔐 Cryptography & Systems</b></summary>
+<br/>
 
 | Project | Description | Stack |
 |---|---|---|
@@ -103,9 +121,11 @@ Thesis: 12 deep learning models for network intrusion detection — the best bea
 | [**DES + BERT**](https://github.com/tamer017/DES) | From-scratch DES Feistel cipher + BERT sentiment fine-tuning | Python · PyTorch |
 | [**Harvard Pipeline Simulator**](https://github.com/tamer017/Double-Harvard-with-arithmetic-shifts) | 3-stage pipeline CPU with hazard detection + two-pass assembler | Java |
 
----
+</details>
 
-## 📊 Data Science & Forecasting
+<details>
+<summary><b>📊 Data Science & Forecasting</b></summary>
+<br/>
 
 | Project | Description | Result |
 |---|---|---|
@@ -114,9 +134,11 @@ Thesis: 12 deep learning models for network intrusion detection — the best bea
 | [**US Airline Dashboard**](https://github.com/tamer017/US-domestic-airline-flights-performance) | Interactive Plotly Dash: 2005–2020 BTS flight performance | Choropleth · Treemap |
 | [**Football Salaries**](https://github.com/tamer017/football-players-ratings-and-salaries) | FIFA 22 ratings vs. real wages: position + nationality premium analysis | r ≈ +0.72 |
 
----
+</details>
 
-## 🌐 Full-Stack & Mobile
+<details>
+<summary><b>🌐 Full-Stack & Mobile</b></summary>
+<br/>
 
 | Project | Description | Stack |
 |---|---|---|
@@ -124,6 +146,8 @@ Thesis: 12 deep learning models for network intrusion detection — the best bea
 | [**Medica**](https://github.com/tamer017/medica) | Healthcare Flutter app: appointments · symptom checker · prescriptions | Flutter · Dart |
 | [**Molloonaire**](https://github.com/tamer017/molloonaire) | Who Wants to Be a Millionaire? Flutter game with lifelines + Provider | Flutter · Dart · Provider |
 | [**YouTube Player**](https://github.com/tamer017/youtube_video_player) | Native Android YouTube Data API v3 integration with in-app playback | Kotlin · Retrofit · Glide |
+
+</details>
 
 ---
 
