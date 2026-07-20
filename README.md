@@ -1,14 +1,59 @@
+<img align="right" width="190" src="assets/profile.jpg" alt="Ahmed Tamer Assy" />
+
 # Hi, I'm Ahmed Tamer Assy 👋
 
-**Machine Learning Researcher | NLP · Graph Neural Networks · Computer Vision | @ Volkswagen AG**
+**AI / ML Engineer & Data Scientist** — LLM Agents · RAG · Graph Neural Networks · NLP · Computer Vision
+Göttingen, Germany 🇩🇪
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--six--opal--24.vercel.app-6c5ce7?style=flat-square)](https://portfolio-six-opal-24.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Tamer-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-tamer-assy/)
+[![Email](https://img.shields.io/badge/Email-ahmedtamerassy%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedtamerassy@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-hamadaassyhamadaassy-fca311?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/hamadaassyhamadaassy/)
 
 ---
 
 ## 🧠 About Me
 
-I'm an MSc Computer Science & Engineering candidate and ML researcher currently working at **Volkswagen AG** in Wolfsburg. My thesis applies **Heterogeneous Graph Neural Networks** and **RAG-augmented LLM agents** to industrial automotive E/E architecture analysis.
+I'm an AI engineer and data scientist with a software engineering foundation: a published, benchmark-beating research paper behind me and industry experience at Volkswagen. My range runs the whole stack, from AES in assembly and VHDL at the hardware level to LLM agents, RAG pipelines and 3D graph dashboards at the application level.
 
-I build end-to-end AI systems: from bare-metal cryptography in Assembly to multi-agent LLM pipelines, from edge-deployed sports activity classifiers to interactive data dashboards.
+Currently an M.Sc. Applied Computer Science candidate at the **University of Göttingen**, writing my thesis at **Volkswagen AG**: an autonomous LLM agent that reasons over vehicle E/E architecture graphs using RAG and graph machine learning.
+
+📄 See the full case studies, writeups and design decisions on my **[portfolio site](https://portfolio-six-opal-24.vercel.app)**.
+
+---
+
+## 💼 Experience
+
+| Role | Organization | When |
+|---|---|---|
+| M.Sc. Thesis Student · LLM Agents | Volkswagen AG · Wolfsburg & University of Göttingen | Jul 2025 – Present |
+| Research Intern · Graph Theory & NLP | Volkswagen AG · Wolfsburg | Dec 2024 – Jun 2025 |
+| Working Student · SAP Data | Volkswagen AG · Wolfsburg | Mar 2024 – Dec 2024 |
+| Explore Summer Intern | Aman for E-Payments · Raya Holding · Cairo | Summer 2023 |
+| NOC Front End Transmission Engineer Intern | Huawei · Etisalat Egypt | Aug 2021 – Nov 2021 |
+
+At Volkswagen I built a graph theory + NLP framework that cut automotive E/E architecture complexity by ~10% of nodes and up to 23% of edges, then shipped a Flask + WebGL 3D visualization portal used by 5,000+ engineers.
+
+---
+
+## 🎓 Education
+
+**M.Sc. Applied Computer Science** — Georg-August-Universität Göttingen (2023 – 2026), Grade 1.7
+Niedersachsenstipendium scholar · focus on Data Science, Computer Vision and Computational Neuroscience.
+
+**B.Sc. Computer Networking Engineering** — German University in Cairo (2018 – 2022), Grade 1.12 (A), **ranked 2nd in major**
+Thesis: 12 deep learning models for network intrusion detection — the best beat all baselines by 20.78 points on NSL-KDD KDDTest-21, published in *Procedia Computer Science* (ANT 2023).
+
+---
+
+## 🏆 Achievements & Awards
+
+- 🥉 **3rd place**, Dell Technologies AI Empower Egypt Hackathon (Jul 2023)
+- 🎓 **Niedersachsenstipendium** scholarship, Lower Saxony (Dec 2023)
+- 📰 **Published researcher** — *Procedia Computer Science*, Vol. 220, ANT 2023, Leuven
+- 🥈 **Ranked 2nd in major** — Computer Networking Engineering, GUC (2023)
+- 🏆 **Top 12 teams** — International Smart Cities Competition, ICSC 2023, Ain Shams University
+- 📊 **Top 50** high school students in Kuwait, 99.08% average (2018)
 
 ---
 
@@ -75,16 +120,28 @@ I build end-to-end AI systems: from bare-metal cryptography in Assembly to multi
 
 ## 🛠️ Tech Stack
 
-**ML/DL:** TensorFlow · PyTorch · PyTorch Geometric · Scikit-learn · XGBoost · LightGBM  
-**LLM/Agents:** LangChain · PydanticAI · OpenAI GPT-4 · ChromaDB · Langfuse  
-**Mobile:** Flutter/Dart · Kotlin/Android · Firebase  
-**Web:** React · Redux · Node.js · Express.js · MongoDB  
-**Systems:** x86 Assembly · Java · MATLAB · OpenCV  
-**DevOps:** GitHub Actions · Docker · FFmpeg  
+**ML/DL:** TensorFlow · PyTorch · PyTorch Geometric · Scikit-learn · XGBoost · LightGBM
+**LLM/Agents:** LangChain · PydanticAI · OpenAI GPT-4 · ChromaDB · Langfuse · RAG
+**NLP/CV:** BERT/GPT variants, NER, text classification · CNNs, YOLO, image segmentation
+**Mobile:** Flutter/Dart · Kotlin/Android · Firebase
+**Web:** React · Redux · Node.js · Express.js · MongoDB
+**Systems:** x86 Assembly · VHDL · Java · C++ · MATLAB · OpenCV
+**DevOps:** GitHub Actions · Docker · FFmpeg · Git
+
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tamer017&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Ahmed's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamer017&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+</p>
 
 ---
 
 ## 📫 Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_site-6c5ce7.svg?style=flat-square)](https://portfolio-six-opal-24.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Tamer-blue.svg)](https://www.linkedin.com/in/ahmed-tamer-assy/)
 [![GitHub](https://img.shields.io/badge/GitHub-tamer017-black.svg)](https://github.com/tamer017)
+[![LeetCode](https://img.shields.io/badge/LeetCode-hamadaassyhamadaassy-fca311.svg)](https://leetcode.com/u/hamadaassyhamadaassy/)
