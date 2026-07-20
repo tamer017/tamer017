@@ -185,11 +185,8 @@ x86 Assembly · VHDL · CAN · LIN · FlexRay · MATLAB
 
 <p align="left">
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tamer017&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Ahmed's GitHub stats" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tamer017&layout=compact&hide_border=true&theme=default" alt="Top languages" />
 </p>
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=tamer017&theme=default&hide_border=true" alt="Ahmed's GitHub streak" />
-</p>
+
 
 ---
 
