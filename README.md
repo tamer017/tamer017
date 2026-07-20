@@ -1,8 +1,5 @@
 <table width="100%">
 <tr>
-<td width="170" valign="top">
-  <img src="assets/profile.jpg" width="160" style="border-radius:50%;" alt="Ahmed Tamer Assy" />
-</td>
 <td valign="top">
 
 # Hi, I'm Ahmed Tamer Assy 👋
