@@ -1,14 +1,23 @@
-<img align="right" width="190" src="assets/profile.jpg" alt="Ahmed Tamer Assy" />
+<table width="100%">
+<tr>
+<td width="160" valign="top">
+  <img src="assets/profile.jpg" width="150" style="border-radius:50%;" alt="Ahmed Tamer Assy" />
+</td>
+<td valign="top">
 
 # Hi, I'm Ahmed Tamer Assy 👋
 
 **AI / ML Engineer & Data Scientist** — LLM Agents · RAG · Graph Neural Networks · NLP · Computer Vision
-Göttingen, Germany 🇩🇪
+📍 Göttingen, Germany 🇩🇪
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--six--opal--24.vercel.app-6c5ce7?style=flat-square)](https://portfolio-six-opal-24.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Tamer-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-tamer-assy/)
 [![Email](https://img.shields.io/badge/Email-ahmedtamerassy%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedtamerassy@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-hamadaassyhamadaassy-fca311?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/hamadaassyhamadaassy/)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -120,21 +129,42 @@ Thesis: 12 deep learning models for network intrusion detection — the best bea
 
 ## 🛠️ Tech Stack
 
-**ML/DL:** TensorFlow · PyTorch · PyTorch Geometric · Scikit-learn · XGBoost · LightGBM
-**LLM/Agents:** LangChain · PydanticAI · OpenAI GPT-4 · ChromaDB · Langfuse · RAG
-**NLP/CV:** BERT/GPT variants, NER, text classification · CNNs, YOLO, image segmentation
-**Mobile:** Flutter/Dart · Kotlin/Android · Firebase
-**Web:** React · Redux · Node.js · Express.js · MongoDB
-**Systems:** x86 Assembly · VHDL · Java · C++ · MATLAB · OpenCV
-**DevOps:** GitHub Actions · Docker · FFmpeg · Git
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,cs,kotlin,js,ts,dart" alt="Python, C++, Java, C#, Kotlin, JavaScript, TypeScript, Dart" />
+
+**ML / Deep Learning**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" alt="PyTorch, TensorFlow, scikit-learn, OpenCV" />
+<br/>
+PyTorch Geometric · XGBoost · LightGBM · Hugging Face Transformers
+
+**LLM / Agents / RAG**
+<br/>
+LangChain · PydanticAI · OpenAI GPT-4 · ChromaDB · Langfuse · Neo4j
+
+**Web & Mobile**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,firebase,flutter,androidstudio" alt="React, Redux, Node.js, Express, MongoDB, Firebase, Flutter, Android Studio" />
+
+**Data & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,mysql,postgres,vscode" alt="Git, GitHub, GitHub Actions, Docker, Linux, MySQL, PostgreSQL, VS Code" />
+
+**Embedded / Low-Level**
+<br/>
+x86 Assembly · VHDL · CAN · LIN · FlexRay · MATLAB
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tamer017&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Ahmed's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamer017&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tamer017&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Ahmed's GitHub stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tamer017&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+</p>
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=tamer017&theme=default&hide_border=true" alt="Ahmed's GitHub streak" />
 </p>
 
 ---
